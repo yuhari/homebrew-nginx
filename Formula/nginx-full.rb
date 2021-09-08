@@ -74,6 +74,7 @@ class NginxFull < Formula
       "healthcheck" => "Build with Healthcheck support",
       "http-accounting" => "Build with HTTP Accounting support",
       "http-flood-detector" => "Build with Var Flood-Threshold support",
+      "http-flv" => "Build with HTTP-Flv support" ,
       "http-remote-passwd" => "Build with Remote Basic Auth Password support",
       "log-if" => "Build with Log-if support",
       "lua" => "Build with LUA support",
